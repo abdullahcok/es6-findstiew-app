@@ -1,0 +1,16 @@
+{
+  "name": "findstiew-v.0.0.1",
+  "version": "0.0.1",
+  "description": "find something stuff in easy way...",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "find",
+    "stuff",
+    "easy"
+  ],
+  "author": "abdullahcok",
+  "license": "ISC"
+}
